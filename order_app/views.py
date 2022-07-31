@@ -80,7 +80,6 @@ class CreateProductView(APIView):
 
 
 # temporary json data
-
 # {
 # "order" : "1",
 # "category" : "Electronics",
